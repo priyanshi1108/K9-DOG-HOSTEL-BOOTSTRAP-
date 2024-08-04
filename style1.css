@@ -1,0 +1,22 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .container img {
+    width: 200px;
+    height: 200px; /* Keeps the aspect ratio */
+    margin: 10px;
+    
+  }
+  .container video{
+    width: 200px;
+    height: 200px;
+    margin:10px;
+
+  }
+
