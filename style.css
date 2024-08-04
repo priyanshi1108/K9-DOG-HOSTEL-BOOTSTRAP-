@@ -1,0 +1,10 @@
+.carousel-item img {
+     height: 650px; Set your desired height
+     width: 100%; Set width to 100% to make it responsive
+    object-fit: cover; /* Adjusts the image to cover the container */
+    opacity: 0.5;;
+}
+
+p{
+    font-weight: 500;
+}
